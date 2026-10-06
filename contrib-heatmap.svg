@@ -2214,7 +2214,7 @@
                 dur="0.30s" begin="3.640s" fill="freeze"/>
             </rect>
 <rect class="cell" x="932" y="59" width="13" height="13"
-            rx="3" fill="#161b22" opacity="0">
+            rx="3" fill="#006d32" opacity="0">
               <title>2026-10-05: 0 contributions</title>
               <animate attributeName="opacity" from="0" to="1"
                 dur="0.30s" begin="3.650s" fill="freeze"/>
