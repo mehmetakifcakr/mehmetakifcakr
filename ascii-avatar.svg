@@ -1,26 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-label="Animated ASCII engineering avatar">
-<rect width="360" height="320" rx="14" fill="#0d1117"/>
-<text x="22" y="28" fill="#39d353" font-family="monospace" font-size="12">$ ./mechatronics.sh</text>
-<g fill="#c9d1d9" font-family="monospace" font-size="14">
-<text x="24" y="58">       .--------.</text>
-<text x="24" y="76">      /  .--.    \</text>
-<text x="24" y="94">     |  | •  • |  |</text>
-<text x="24" y="112">     |  |  --  |  |</text>
-<text x="24" y="130">      \  '--'   /</text>
-<text x="24" y="148">       '--------'</text>
-<text x="24" y="174">     .---[ MECH ]---.</text>
-<text x="24" y="192">    /   /|     |\   \</text>
-<text x="24" y="210">   /___/ |     | \___\</text>
-<text x="24" y="228">      |  |     |  |</text>
-<text x="24" y="246">      |__|_____|__|</text>
-<text x="24" y="264">       /  /   \  \</text>
-<text x="24" y="282">      /__/     \__\</text>
-</g>
-<text x="24" y="304" fill="#8b949e" font-family="monospace" font-size="11">robotics • control • code</text>
-<g>
-<rect x="22" y="44" width="310" height="250" fill="none" stroke="#21262d" rx="8"/>
-</g>
-<rect x="22" y="44" width="0" height="250" fill="#39d353">
-<animate attributeName="width" from="0" to="310" dur="1.6s" fill="freeze"/>
-</rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="230" viewBox="0 0 240 230" role="img" aria-labelledby="title desc">
+  <title id="title">Robotics engineering illustration</title>
+  <desc id="desc">A static circuit robot with visible sensor eyes, arms and motor joints.</desc>
+  <rect x="1" y="1" width="238" height="228" rx="16" fill="#101b29" stroke="#26384c"/>
+  <g stroke="#55d5c5" stroke-width="2" fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M120 37V49"/><circle cx="120" cy="31" r="5" fill="#55d5c5"/>
+    <rect x="77" y="49" width="86" height="55" rx="13" fill="#152c3a"/>
+    <circle cx="100" cy="72" r="5" fill="#55d5c5"/><circle cx="140" cy="72" r="5" fill="#55d5c5"/>
+    <path d="M106 88H134M108 104V115M132 104V115"/>
+    <rect x="82" y="115" width="76" height="58" rx="9"/>
+    <rect x="105" y="127" width="30" height="18" rx="3" stroke="#819bb2"/>
+    <path d="M115 133L111 136L115 139M125 133L129 136L125 139" stroke="#819bb2"/>
+    <path d="M82 124H65V150H54M158 124H175V150H186M103 173V188H86M137 173V188H154"/>
+    <circle cx="65" cy="124" r="4" fill="#101b29"/><circle cx="175" cy="124" r="4" fill="#101b29"/>
+  </g>
+  <path d="M58 200H182" stroke="#26384c"/>
+  <text x="120" y="217" text-anchor="middle" fill="#8da8bd" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="1.8">BUILD · TEST · ITERATE</text>
 </svg>

@@ -1,44 +1,51 @@
-<div align="center">
-
-<h2><code>mehmetakifcakr@github ~ $ ./contributions.sh</code></h2>
-
-<p>
-  <em>Mechatronics Engineering • Robotics • Automation • Embedded Systems</em>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Mehmet Akif Çakır — mechatronics engineering, robotics and open-source software" />
 </p>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap" />
+<p align="center">
+  <a href="https://mehmetakifcakr.github.io/mehmetakifcakir.github.io/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ma-cakr/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:mehmetakifcakrr@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0009-0008-9355-7559">ORCID</a>
+</p>
 
-<br><br>
+## About
 
-<h2><code>mehmetakifcakr@github ~ $ whoami</code></h2>
+I'm a **mechatronics engineering student at Manisa Celal Bayar University**, based in **Izmir, Türkiye**. I build and document open-source projects at the intersection of robotics, embedded systems and software.
 
-<table>
-<tr>
-<td valign="top">
-<img src="./ascii-avatar.svg" width="360" alt="Animated ASCII engineering avatar" />
-</td>
-<td valign="top">
-<img src="./info-card.svg" width="520" alt="Profile information card" />
-</td>
-</tr>
-</table>
+My current work explores reliable decision engines, small robotics abstractions and reproducible simulation tools. I value clear interfaces, useful examples and honest documentation of what a project can do today.
 
-<br>
+## Selected projects
 
-<code>⚡ Building • Learning • Prototyping • Automating</code>
+| Project | What I'm building | Stack & stage |
+|:--|:--|:--|
+| **[RecoverTick](https://github.com/mehmetakifcakr/recovertick)** | A zero-dependency decision engine for embedded controllers, with bounded recovery and verified replay. | **Rust · `no_std`**<br>0.1.0 MVP |
+| **[OpenRobotKit](https://github.com/mehmetakifcakr/OpenRobotKit)** | A robotics toolkit starting with a Python motor abstraction, with Arduino and ESP32 support on the roadmap. | **Python · Robotics**<br>Early development |
+| **[AI Trader Paper](https://github.com/mehmetakifcakr/ai-trader-paper)** | An offline-first research simulator with a shared paper portfolio and explicit execution limits. | **Python · Machine learning**<br>Alpha · local simulation only |
 
-<br><br>
+## Engineering focus
 
-<details>
-<summary><strong>tech stack</strong></summary>
-<br>
+<a href="https://github.com/mehmetakifcakr/OpenRobotKit">
+  <img align="right" src="./ascii-avatar.svg" width="180" alt="Robotics engineering illustration — explore OpenRobotKit" />
+</a>
 
-<code>Python</code> · <code>C++</code> · <code>Arduino</code> · <code>Embedded Systems</code> · <code>Robotics</code> · <code>Automation</code> · <code>3D CAD</code> · <code>Computer Vision</code>
+- **Languages:** Python, C++ and Rust.
+- **Hardware & control:** Arduino, ESP32, motor control and sensor integration.
+- **Software:** automation, simulation, testing and reproducible examples.
+- **Design:** 3D CAD and prototyping.
 
-</details>
+I'm developing these interests through small, inspectable projects. Next up: stronger examples and tests, durable simulation state and clearer hardware interfaces.
 
-<br>
+<br clear="both" />
 
-<sub>Contribution data is refreshed automatically by GitHub Actions.</sub>
+## Open-source activity
 
-</div>
+<a href="https://github.com/mehmetakifcakr?tab=overview">
+  <img src="./contrib-heatmap.svg" width="100%" alt="Public GitHub contributions over the past year, with accurate totals and active-day counts" />
+</a>
+
+<sub>Generated from GitHub's public contribution calendar and refreshed daily. Private activity is not included.</sub>
+
+## Connect
+
+For project discussions, examples or bug reports, open an issue in the relevant repository. For professional conversations, reach me on [LinkedIn](https://www.linkedin.com/in/ma-cakr/) or at **[mehmetakifcakrr@gmail.com](mailto:mehmetakifcakrr@gmail.com)**.
